@@ -30,3 +30,13 @@ Install packages
 ```
 pip install -r requirements.txt
 ```
+
+### Frontend
+
+Created with Create-React-App
+
+Run with
+
+```
+yarn start
+```
