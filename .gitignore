@@ -1,2 +1,11 @@
-backend/env/*
+# General stuff
 .vscode/
+
+# Backend
+backend/env/*
+backend/financetracker/db.sqlite3
+backend/**/__pycache__/*
+backend/**/*.pyc
+
+# Frontend
+frontend/node_modules/
