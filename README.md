@@ -11,3 +11,22 @@ The app will allow you to add your expenses into a simple form and view your spe
 I stream on **Saturday 5-8pm UTC+3**.
 
 First stream will happen on **September 28th** at [https://twitch.tv/hamatti](https://twitch.tv/hamatti).
+
+## Installation
+
+### Backend
+
+#### Creating the virtualenv
+
+Create a new Python virtualenv with
+
+```
+virtualenv env
+source env/bin/activate
+```
+
+Install packages
+
+```
+pip install -r requirements.txt
+```
