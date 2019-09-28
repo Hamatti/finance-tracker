@@ -1,2 +1,4 @@
 backend/env/*
+backend/financetracker/db.sqlite3
+backend/financetracker/financetracker/__pycache__/
 .vscode/
